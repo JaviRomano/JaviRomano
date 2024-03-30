@@ -1,4 +1,4 @@
-![logo](https://github.com/JaviRomano/imagenes/blob/2af5cc970a24b378db54fdc92aefea8ebe837b10/logo_red.png) 
+
 ## Hi, I'm Javi 
 
 - I’m currently learning database, object oriented development, branding language, and in different OS and networks.
