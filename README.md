@@ -19,7 +19,7 @@ Previous studies in audiovisuals, specialising in photography and digital image 
   <a href="[Javi_Romano](https://twitter.com/Javi_Romano)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </a>
-<a href="javiromanofotografiaz@gmail.com" target="_blank">
+<a href="javiromanofotografia@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="[UC-b2fCszcUsN5wbL_KDIkbQ](https://www.youtube.com/channel/UC-b2fCszcUsN5wbL_KDIkbQ)" target="_blank">
