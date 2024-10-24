@@ -3,7 +3,7 @@
 <div align="left"> 
 <img src="https://komarev.com/ghpvc/?username=JaviRomano&label=Profile%20views&color=0e75b6&style=flat" alt="jr" /> </p>
 
-I’m currently learning database, object oriented development, branding language, and different OS and networks.
+I’m currently learning MySql & JAVA.
 Previous studies in audiovisuals, specialising in photography and digital image processing.
 ***
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRomano&langs_count=5&theme=tokyonight)]()
