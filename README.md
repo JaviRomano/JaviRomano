@@ -1,30 +1,37 @@
+## Hi, I'm Javi Romano 👋  
+<div align="left">  
+<img src="https://komarev.com/ghpvc/?username=JaviRomano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
+</div>
 
-## Hi, I'm 🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​
-<div align="left"> 
-<img src="https://komarev.com/ghpvc/?username=JaviRomano&label=Profile%20views&color=0e75b6&style=flat" alt="jr" /> </p>
+### 💻 Software Developer | React | Java | Spring Boot | PL/SQL  
+I’m a passionate software developer with expertise in **React.js, Java, Spring Boot, and PL/SQL**. I have a strong background in **UI/UX best practices, frontend and backend development, and database management**.  
+Additionally, I have experience in **digital image processing**, having worked professionally in **photography**.
 
-I’m currently learning MySql & JAVA.
-Previous studies in audiovisuals, specialising in photography and digital image processing.
-***
+---
+
+### 🛠 Tech Stack  
+- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Backend:** Java, Spring Boot, Node.js  
+- **Databases:** MySQL, PL/SQL  
+- **Tools & Platforms:** Git, Unity (Vuforia for AR development)  
+- **Other Skills:** UI/UX best practices, app usability, accessibility  
+
+---
+
+### 📊 GitHub Stats  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRomano&langs_count=5&theme=tokyonight)]()
 
-***
+---
 
-<div align="center">  
-  
-### Redes Sociales   
-<a href="jromano5855" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+### 🌐 Connect with Me  
+<div align="left">  
+  <a href="mailto:javiromanofotografia@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a> 
+  <a href="https://www.youtube.com/channel/UC-b2fCszcUsN5wbL_KDIkbQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
   </a>
-  <a href="[Javi_Romano](https://twitter.com/Javi_Romano)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</a>
-<a href="javiromanofotografia@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="[UC-b2fCszcUsN5wbL_KDIkbQ](https://www.youtube.com/channel/UC-b2fCszcUsN5wbL_KDIkbQ)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo"  />
+  <a href="https://discord.com/users/jromano5855" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
 </div>
-<!---[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JaviRomano&count_private=true&theme=tokyonight&showicons=true)]() -->
-<!---🇯​​​​​🇦​​​​​🇻​​​​​🇮​​​​​🇷​​​​​🇴​​​​​🇲​​​​​🇦​​​​​🇳​​​​​🇴​​​​​ -->
