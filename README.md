@@ -19,7 +19,7 @@ Additionally, I have experience in **digital image processing**, having worked p
 ---
 
 ### 📊 GitHub Stats  
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRomano&theme=default&show_icons=true&hide_border=true&layout=compact))]()
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRomano&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
