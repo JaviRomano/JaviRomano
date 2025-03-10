@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=JaviRomano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
 </div>
 
-### 💻 Software Developer | React | Java | Spring Boot | PL/SQL  
-I’m a passionate software developer with expertise in **React.js, Java, Spring Boot, and PL/SQL**. I have a strong background in **UI/UX best practices, frontend and backend development, and database management**.  
+### 💻 Software Developer | React | Java | Spring Boot | PostgreSQL  
+I’m a passionate software developer with expertise in **React.js, Java, Spring Boot, and PostgreSQL**. I have a strong background in **UI/UX best practices, frontend and backend development, and database management**.  
 Additionally, I have experience in **digital image processing**, having worked professionally in **photography**.
 
 ---
