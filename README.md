@@ -4,16 +4,16 @@
 </div>
 
 ### 💻 Software Developer | React | Java | Spring Boot | PostgreSQL  
-I’m a passionate software developer with expertise in **React.js, Java, Spring Boot, and PostgreSQL**. I have a strong background in **UI/UX best practices, frontend and backend development, and database management**.  
+I’m a passionate software developer with expertise in **, Java, PHP, and PostgreSQL**. I have a strong background in **UI/UX best practices, frontend and backend development, and database management**.  
 Additionally, I have experience in **digital image processing**, having worked professionally in **photography**.
 
 ---
 
 ### 🛠 Tech Stack  
-- **Frontend:** React.js, JavaScript, HTML, CSS  
-- **Backend:** Java, Spring Boot, Node.js  
-- **Databases:** MySQL, PL/SQL  
-- **Tools & Platforms:** Git, Unity (Vuforia for AR development)  
+- **Frontend:** React, Angular, HTML, CSS  
+- **Backend:** Spring Boot, Node.js, Symfony  
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Git, Unity
 - **Other Skills:** UI/UX best practices, app usability, accessibility  
 
 ---
